@@ -1,0 +1,105 @@
+body {
+
+  margin:0;
+
+  font-family:
+  Arial, sans-serif;
+
+  background:#f2f2f2;
+
+}
+
+
+.app {
+
+  width:800px;
+
+  margin:40px auto;
+
+  background:white;
+
+  padding:30px;
+
+  border-radius:10px;
+
+}
+
+
+.chat-box {
+
+  height:400px;
+
+  overflow-y:auto;
+
+  border:1px solid #ddd;
+
+  padding:20px;
+
+}
+
+
+.user {
+
+  text-align:right;
+
+  background:#e8f5e9;
+
+  padding:10px;
+
+  margin:10px;
+
+}
+
+
+.assistant {
+
+  background:#eeeeee;
+
+  padding:10px;
+
+  margin:10px;
+
+}
+
+
+.redpen {
+
+  margin-top:20px;
+
+  padding:15px;
+
+  border-left:
+  5px solid red;
+
+  background:#fff0f0;
+
+}
+
+
+.input-area {
+
+  display:flex;
+
+  margin-top:20px;
+
+}
+
+
+input {
+
+  flex:1;
+
+  padding:12px;
+
+  font-size:16px;
+
+}
+
+
+button {
+
+  padding:12px 20px;
+
+  cursor:pointer;
+
+}
